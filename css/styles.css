@@ -458,8 +458,8 @@ margin: 0;
 .about-section .about-info{
     flex: 0 0 60%;
     max-width: 60%;
-    
-    padding: 0 15px;
+   
+    padding: 12px 15px;
 }
 .about-section .about-info p{
     font-size: 16px;
